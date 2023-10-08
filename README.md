@@ -1,1 +1,1 @@
-# Digit-Prediction-Using-ANN
+# Hand Written Digit-Prediction-Using-ANN
